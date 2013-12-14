@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
  
 public class Profile {
+/*comment*/
 	private String name = "じょん";
 	private List<String> tags = new ArrayList<>();
 	
